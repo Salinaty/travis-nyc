@@ -13,4 +13,5 @@ script:
   - node bin/www & 
   - npm install -g nyc
   - nyc --version 
-  - nyc npm run test
+  - nyc npm run test 
+  
